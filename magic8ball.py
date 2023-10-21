@@ -1,11 +1,14 @@
-#Magic 8-Ball Project
+### Magic 8-Ball Project ###
 
-import random
+## (1) Input and output format
 
 name = input("Enter your name: ")
 question = input("Ask Magic 8-Ball a question: ")
 answer = ""
 
+## (2) Randomise answers
+
+import random
 
 random_number = random.randint(1,15)
 
@@ -42,6 +45,7 @@ elif random_number == 15:
 else:
     answer = "Error"
 
+## (3) Print output
 
 if name == "":
     print(question)
