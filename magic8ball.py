@@ -7,7 +7,7 @@ question = input("Ask Magic 8-Ball a question: ")
 answer = ""
 
 
-random_number = random.randint(1,20)
+random_number = random.randint(1,15)
 
 if random_number == 1:
     answer = "Yes, definitely."
