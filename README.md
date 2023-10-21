@@ -23,6 +23,7 @@ The program will randomly output a different answer each time it's run, utilisin
 
 The program will first require an input in the following format:
 >>> Enter your name: [Name]
+
 >>> Ask Magic 8-Ball a question: [Question]
 
 Once input, the program will generate an output:
