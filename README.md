@@ -30,5 +30,5 @@ Once input, the program will generate an output:
 >>> Magic 8-Ball's answer: [Answer]
 
 If no name is input, but a question is still asked, an output will generate as normal. 
-However, if a question is not asked, regardless if a name is provided, the output will print
+However, if a question is not asked, regardless if a name is provided, the output will print:
 >>> Error
