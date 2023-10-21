@@ -1,5 +1,8 @@
-# Magic 8-Ball Project
+<h1>Magic 8-Ball Project</h1>
 
+<b>Date completed:</b> October 21, 2023 
+
+<h2>Description</h2>
 A Python program that can answer any "Yes" or "No" question with a different fortune each time it executes. 
 
 The following 15 possible answers were used for the Magic 8-Ball:
@@ -32,3 +35,6 @@ Once input, the program will generate an output:
 If no name is input, but a question is still asked, an output will generate as normal. 
 However, if a question is not asked, regardless if a name is provided, the output will print:
 >>> Error
+
+<h2>Remarks</h2>
+- 
